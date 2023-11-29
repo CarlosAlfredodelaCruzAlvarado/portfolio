@@ -1,0 +1,53 @@
+.seccionTitulo {
+    color: #54008F;
+    font-size: 2rem;
+    text-shadow: 2px 2px #9b11fd;
+    text-align: center;
+}
+
+.css-10hburv-MuiTypography-root,
+.css-i4bv87-MuiSvgIcon-root {
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+
+.list {
+    margin: 0 10%;
+}
+
+.css-1p823my-MuiListItem-root {
+    flex-direction: row;
+    gap: 10px;
+}
+
+.css-cveggr-MuiListItemIcon-root,
+.css-tlelie-MuiListItemText-root,
+.css-h4y409-MuiList-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: right;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+.seccionTitulo .SGh1{
+font-size: 2.5rem;
+}
+.css-1p823my-MuiListItem-root {
+    flex-direction: column;
+    gap: 10px;
+}
+.css-cveggr-MuiListItemIcon-root,
+.css-tlelie-MuiListItemText-root,
+.css-h4y409-MuiList-root{
+    text-align: center;
+}
+.list{
+    margin: 0;
+}
+.css-cveggr-MuiListItemIcon-root{
+    align-items: center;
+}
+}

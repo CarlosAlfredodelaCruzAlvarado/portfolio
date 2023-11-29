@@ -1,0 +1,38 @@
+.pantallaCarga {
+  background-image: url(../img/loadingBackground.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position-y: bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pantallaCargaSpinner {
+  text-align: center;
+}
+
+.pantallaCargaRSG {
+  display: flex;
+  justify-content: center;
+}
+
+.ml4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  font-size: 5rem;
+  color: #FF009E;
+  text-shadow: 4px 4px black;
+  -webkit-text-stroke: 3px black;
+}
+
+.letters-1,
+.letters-2,
+.letters-3 {
+  position: absolute;
+}
+

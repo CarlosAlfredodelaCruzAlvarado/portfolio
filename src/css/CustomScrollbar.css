@@ -1,0 +1,24 @@
+.custom-scrollbar {
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  position: relative;
+}
+
+.scroll-content {
+  width: 100%;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 15px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #077FF9;
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background-color: #07DACB;
+}

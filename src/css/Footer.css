@@ -1,0 +1,24 @@
+.Footer {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+    margin: 5% 1% 0;
+    font-size: 10px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+
+    .Footer{
+        flex-direction: column;
+        gap: 0;
+        margin: 5% 1% ;
+
+    }
+
+    .Footer h1, .Footer h2{
+    margin: 0;
+    }
+}

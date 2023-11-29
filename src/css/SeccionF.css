@@ -1,0 +1,39 @@
+.seccionTitulo {
+    color: #54008F;
+    font-size: 2rem;
+    text-shadow: 2px 2px #9b11fd;
+    text-align: center;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.miFoto {
+    width: 25%;
+    border-radius: 20px;
+}
+
+.descripcion .SFh2 {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+.seccionTitulo .SFh1{
+    font-size: 2.5rem;
+}
+.descripcion .SFh1{
+font-size: 2rem;
+}
+.descripcion .SFh2{
+font-size: 1rem;
+}
+
+.miFoto {
+    width: 50%;
+    border-radius: 20px;
+}
+}

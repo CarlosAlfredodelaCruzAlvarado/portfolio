@@ -1,0 +1,98 @@
+.seccionD {
+    margin: 5%;
+    scroll-margin-top: 100px;
+}
+
+.tituloSeccion {
+    color: #54008F;
+    font-size: 2rem;
+    text-shadow: 2px 2px #9b11fd;
+    text-align: center;
+}
+
+.subSeccionDTitulo {
+    color: white;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.subSeccionD {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.criterio {
+    display: flex;
+    flex-direction: column;
+}
+
+.criterio label {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.criterio select {
+    height: 40px;
+    border-radius: 10px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.card-list {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-list h2 {
+    color: white;
+    font-size: 2rem;
+    margin: 0px;
+}
+
+.card-list a {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1a1a;
+    box-shadow: 2px 2px #474747;
+    height: 350px;
+    width: 500px;
+}
+
+.proyectoImg {
+    width: 450px;
+    height: 250px;
+    object-fit: cover;
+    object-position: top;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+
+    .proyectoImg {
+        width: 250px;
+        height: 200px;
+    }
+    .card {
+        height: 300px;
+        width: 300px;
+    }
+    .criterio label {
+        font-size: 1.5rem;
+    }
+    .card-list {
+        flex-direction: column;
+    }
+}
