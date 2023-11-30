@@ -6,7 +6,7 @@
 }
 
 .css-10hburv-MuiTypography-root,
-.css-i4bv87-MuiSvgIcon-root {
+.css-i4bv87-MuiSvgIcon-root,  .css-yb0lig {
     color: white;
     font-family: 'Rajdhani', sans-serif;
 }
@@ -30,24 +30,28 @@
     align-content: center;
     align-items: right;
 }
+.css-1f8bwsm{
+    color: white;
+}
+
 
 @media screen and (min-width: 320px) and (max-width: 767px){
 .seccionTitulo .SGh1{
 font-size: 2.5rem;
 }
-.css-1p823my-MuiListItem-root {
+.css-1p823my-MuiListItem-root, .css-1yo8bqd {
     flex-direction: column;
     gap: 10px;
 }
 .css-cveggr-MuiListItemIcon-root,
 .css-tlelie-MuiListItemText-root,
-.css-h4y409-MuiList-root{
+.css-h4y409-MuiList-root, .css-1yo8bqd{
     text-align: center;
 }
 .list{
     margin: 0;
 }
-.css-cveggr-MuiListItemIcon-root{
+.css-cveggr-MuiListItemIcon-root, .css-1f8bwsm{
     align-items: center;
 }
 }
