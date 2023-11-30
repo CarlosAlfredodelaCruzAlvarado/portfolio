@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.78c5584c.css",
+    "main.js": "/portfolio/static/js/main.5e290239.js",
+    "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/loadingBackground.png": "/portfolio/static/media/loadingBackground.32fb7b0a021353a9dbf8.png",
+    "static/media/htmlcss5.png": "/portfolio/static/media/htmlcss5.535041c824be97dfa55b.png",
+    "static/media/programador.png": "/portfolio/static/media/programador.e146f01af7382c9631ec.png",
+    "static/media/htmlcss2.png": "/portfolio/static/media/htmlcss2.6ac93c9730112ee882ac.png",
+    "static/media/htmlcss1.png": "/portfolio/static/media/htmlcss1.57dd41b2fa068f481c15.png",
+    "static/media/htmlcss3.png": "/portfolio/static/media/htmlcss3.8b2cd416db88838f765f.png",
+    "static/media/htmlcss4.png": "/portfolio/static/media/htmlcss4.2202498070780c8d3164.png",
+    "static/media/imgSeparador.png": "/portfolio/static/media/imgSeparador.b5c9211bc6766cffc4dc.png",
+    "static/media/icon.png": "/portfolio/static/media/icon.1ce1fb0fba2aa9ed32c8.png",
+    "static/media/miFoto.jpg": "/portfolio/static/media/miFoto.2ccdb89e81c8e724d2f8.jpg",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.6cc0c4ed245d65d16926.png",
+    "static/media/react.png": "/portfolio/static/media/react.aa2d1b58de9a7180f161.png",
+    "static/media/x.png": "/portfolio/static/media/x.948d54cb3698bce077e0.png",
+    "static/media/tiktok.png": "/portfolio/static/media/tiktok.c8a8ce071e55201f5729.png",
+    "static/media/vercell.png": "/portfolio/static/media/vercell.4a951118e75cb942c79c.png",
+    "static/media/github.png": "/portfolio/static/media/github.e644792041b64f79f2b6.png",
+    "static/media/html.png": "/portfolio/static/media/html.5139eb66b02855a1c137.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.5bf2b384c4ccea98170d.png",
+    "static/media/css.png": "/portfolio/static/media/css.495a79bfbc4ced7c7c0e.png",
+    "static/media/python.png": "/portfolio/static/media/python.04ddea1b43164f05b756.png",
+    "static/media/email.png": "/portfolio/static/media/email.8fc21969c09d93565c9e.png",
+    "static/media/figma.png": "/portfolio/static/media/figma.bde98f494ed786907fa3.png",
+    "static/media/js.png": "/portfolio/static/media/js.60dbbe1569571db1eda7.png",
+    "index.html": "/portfolio/index.html",
+    "main.78c5584c.css.map": "/portfolio/static/css/main.78c5584c.css.map",
+    "main.5e290239.js.map": "/portfolio/static/js/main.5e290239.js.map",
+    "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c5584c.css",
+    "static/js/main.5e290239.js"
+  ]
+}
