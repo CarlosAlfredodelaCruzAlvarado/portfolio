@@ -1,5 +1,5 @@
 import './css/SeccionF.css';
-import imgMiFoto from ".//img/programador.png";
+import imgMiFoto from ".//img/miFoto.jpg";
 
 function SeccionF() {
   return (
